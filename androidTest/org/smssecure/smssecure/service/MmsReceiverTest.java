@@ -1,4 +1,4 @@
-package org.smssecure.smssecure.service;
+package org.smssecure256.smssecure256.service;
 
 import android.content.Intent;
 import android.test.InstrumentationTestCase;
