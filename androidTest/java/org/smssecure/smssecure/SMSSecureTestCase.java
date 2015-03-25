@@ -1,9 +1,9 @@
-package org.smssecure.smssecure;
+package org.smssecure256.smssecure256;
 
 import android.content.Context;
 import android.test.InstrumentationTestCase;
 
-public class SMSSecureTestCase extends InstrumentationTestCase {
+public class SMSSecure256TestCase extends InstrumentationTestCase {
 
   @Override
   public void setUp() throws Exception {
